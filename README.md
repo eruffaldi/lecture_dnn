@@ -12,3 +12,4 @@ Lecture on DNN and CNN in the Neural networks Course at Scuola Superiore Sant'An
 - torch
 - dlib
 - opencv 3.x
+- cldnn https://github.com/01org/cldnn
