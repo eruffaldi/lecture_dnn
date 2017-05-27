@@ -4,12 +4,14 @@ Lecture on DNN and CNN in the Neural networks Course at Scuola Superiore Sant'An
 ## Software
 
 - theano
-- tensorflow 1.0
+- tensorflow
 - tensorflow playground http://playground.tensorflow.org/
-- tinydnn
-- convnetjs http://cs.stanford.edu/people/karpathy/convnetjs/
-- caffè
-- torch
+- keras (using theano or tensorflow)
+- tinydnn (C++)
+- caffè (C++)
+- torch (Lua)
 - dlib
-- opencv 3.x
-- cldnn https://github.com/01org/cldnn
+- opencv 3.x has some
+- sonnet (based on TF)
+- Intel cldnn https://github.com/01org/cldnn
+- convnetjs http://cs.stanford.edu/people/karpathy/convnetjs/
